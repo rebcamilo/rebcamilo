@@ -1,16 +1,26 @@
-### Hi there 👋
+### Oii! Eu sou a Rebecca Camilo
 
-<!--
-**rebcamilo/rebcamilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Buscando sempre aprender mais e aprofundar no mundo da tecnologia
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="center" alt="Rafa-Js" height="30" width="90" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
+  <img align="center" alt="Rafa-Js" height="30" width="90" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
+  <img align="center" alt="Rafa-Js" height="30" width="90" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+
+
+  
+</div>
+
+##
+
+<div>
+  <a href="www.linkedin.com/in/rebecca-camilo-70a8b821a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:reb.camiloo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
+</div>
+
+
